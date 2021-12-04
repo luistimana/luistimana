@@ -9,17 +9,14 @@
 
 <h4> Soy un desarrollador front-end / back-end 🚀 y diseñador gráfico 🎨 de Perú. Disfruto creando, aprendiendo y compartiendo. Siempre estoy buscando oportunidades para crecer y mejorar mis talentos. </h4>
 <br>
-- 🔭 Actualmente estoy trabajando <b>en algo genial.</b>
 
-- 🤓 Actualmente desarrollando <b>bases de datos</b> y aprendiendo <b>nuevos lenguajes de programación.</b>
-
-- 💬 Conoce un poco más de mi <b>https://www.linkedin.com/in/luistimanagonzaga/</b>
-
-- 📫 Contáctame **luistimannagonzaga@gmail.com**
-
-- ⚡ Datos curiosos <b>¡Me encantan los videojuegos! 🎮 y siempre estoy sonriendo 😁.</b> 
-
-
+<ul>
+    <li>🔭 Actualmente estoy trabajando <b>en algo genial.</b></li>
+    <li>🤓 Actualmente desarrollando <b>bases de datos</b> y aprendiendo <b>nuevos lenguajes de programación.</b></li>
+    <li>💬 Conoce un poco más de mi <b>https://www.linkedin.com/in/luistimanagonzaga/</b></li>
+    <li>📫 Contáctame <b>luistimannagonzaga@gmail.com</b></li>
+    <li>⚡ Datos curiosos <b>¡Me encantan los videojuegos! 🎮 y siempre estoy sonriendo 😁.</b> </li>
+</ul>
 
 <h3 align="center"> <b>Lenguages y Herramientas 🛠</b></h3>
 <br>
