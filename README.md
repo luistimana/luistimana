@@ -14,7 +14,7 @@
     <li>🔭 Actualmente estoy trabajando <b>en algo genial.</b></li>
     <li>🤓 Actualmente desarrollando <b>bases de datos</b> y aprendiendo <b>nuevos lenguajes de programación.</b></li>
     <li>💬 Conoce un poco más de mi <b>https://www.linkedin.com/in/luistimanagonzaga/</b></li>
-    <li>📫 Contáctame <b>luistimannagonzaga@gmail.com</b></li>
+    <li>📫 Contáctame <b>luistimanagonzaga@gmail.com</b></li>
     <li>⚡ Datos curiosos <b>¡Me encantan los videojuegos! 🎮 y siempre estoy sonriendo 😁.</b> </li>
 </ul>
 
