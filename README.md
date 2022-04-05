@@ -1,5 +1,6 @@
-<!-- ![](https://i.ibb.co/zfZhSDY/banner-luistimana.png) -->
-<br><br>
+ <p align="center"> 
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47owf1d1sq6a4r49awujk7ess83kkcwet3k38nj1ld&rid=giphy.gif&ct=g" width = "300px"/>
+ </p>
  <p align="center"> 
   <img src="https://profile-counter.glitch.me/luistimana/count.svg"/>
  </p>
