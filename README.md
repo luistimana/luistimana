@@ -1,4 +1,4 @@
-![](https://i.ibb.co/zfZhSDY/banner-luistimana.png)
+<!-- ![](https://i.ibb.co/zfZhSDY/banner-luistimana.png) -->
 <br><br>
  <p align="center"> 
   <img src="https://profile-counter.glitch.me/luistimana/count.svg"/>
