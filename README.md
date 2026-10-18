@@ -1,13 +1,13 @@
 <div align="center">
 
+<img src="assets/luis-timana.png" alt="Foto de Luis Timaná" width="180" style="border-radius: 50%;" />
+
 # Luis Timaná
 
 **Desarrollador de software | Aplicaciones móviles · Web · Backend**  
 Piura, Perú
 
 [Portafolio](https://luistimana.github.io/) · [LinkedIn](https://www.linkedin.com/in/luistimanagonzaga/) · [Correo](mailto:luistimanagonzaga@gmail.com)
-
-<img src="https://profile-counter.glitch.me/luistimana/count.svg" alt="Visitas al perfil" />
 
 </div>
 
